@@ -1,0 +1,13 @@
+{
+  "characters": [
+    {
+      "name": "Finn",
+      "ac": 16,
+      "currentAc": 16,
+      "maxHp": 43,
+      "currentHp": 43,
+      "dex": 2,
+      "statsHidden": false
+    }
+  ]
+}
